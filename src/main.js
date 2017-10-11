@@ -1,3 +1,5 @@
-var App=console.log('Hello world from Browserify'); 
+$ = jQuery = require('jquery');
 
-module.exports = App ;
+var App = console.log('Hello world from Browserify'); 
+
+module.exports = App;
